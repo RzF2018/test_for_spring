@@ -1,0 +1,3 @@
+# test_for_spring
+此项目是结合spring所做简单的练习项目
+pojo以来mybatis逆向工程生成
